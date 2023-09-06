@@ -38,7 +38,7 @@ anchors.forEach(anc => {
 
 
     window.scroll({
-      top: elem.offsetTop - 80,
+      top: elem.offsetTop - 3000,
       behavior: 'smooth'
     });
   });
